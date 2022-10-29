@@ -8,7 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/cf33d599-7bce-41f7-b5e3-4e3736a96f6e.svg)](https://wakatime.com/@sotnak)
 
-<img src="https://wakatime.com/share/@sotnak/81226636-f334-43b6-9c64-9871e0ff27f9.svg" width="800" height="600">
+[<img src="https://wakatime.com/share/@sotnak/81226636-f334-43b6-9c64-9871e0ff27f9.svg" width="800" height="600">](https://wakatime.com/share/@sotnak/81226636-f334-43b6-9c64-9871e0ff27f9.svg)
 
 <!--
 **sotnak/sotnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
