@@ -1,10 +1,9 @@
 <!-- ### Hi there 👋
 -->
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sotnak)]([https://wakatime.com/@sotnak)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotnak&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotnak&layout=compact&hide=jupyter%20notebook,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [![wakatime](https://wakatime.com/badge/user/cf33d599-7bce-41f7-b5e3-4e3736a96f6e.svg)](https://wakatime.com/@sotnak)
 
