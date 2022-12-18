@@ -4,7 +4,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotnak&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotnak&layout=compact&hide=jupyter%20notebook,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotnak&layout=compact&hide=jupyter%20notebook,cmake,makefile,java)](https://github.com/anuraghazra/github-readme-stats)
 
 ## WakaTime stats
 
